@@ -1,6 +1,6 @@
 Hi there! 👋
 
-💻 I code with:
+## 💻 I code with:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%232C3E50.svg?style=flat&logo=vite&logoColor=white)
