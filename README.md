@@ -30,5 +30,6 @@
 ![Uvicorn](https://img.shields.io/badge/uvicorn-%2356B4EE.svg?style=flat&logo=fastapi&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23D82C20.svg?style=flat&logo=redis&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D52B1E.svg?style=flat&logo=sqlalchemy&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white)
 
 
