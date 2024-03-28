@@ -4,7 +4,6 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=flat&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=flat&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-6200EE.svg?style=flat&logo=android&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%232C3E50.svg?style=flat&logo=vite&logoColor=white)
 ![Vue 3](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)
